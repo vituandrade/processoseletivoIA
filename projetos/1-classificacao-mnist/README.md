@@ -104,8 +104,8 @@ Foi aplicada a técnica de *Dynamic Range Quantization* nativa do TensorFlow Lit
 ### 4️⃣ Resultados Obtidos
 
 - **Acurácia de validação:** 0.9888 (98,88%)
-- **Tamanho do model.h5:** ~1.4 MB *(Verifique o tamanho exato no explorador de arquivos e ajuste aqui se necessário)*
-- **Tamanho do model.tflite:** ~400 KB *(Verifique o tamanho exato no explorador de arquivos e ajuste aqui se necessário)*
+- **Tamanho do model.h5:** 1.175 KB
+- **Tamanho do model.tflite:** 104 KB
 
 ### 5️⃣ Comentários Adicionais (Opcional)
 
